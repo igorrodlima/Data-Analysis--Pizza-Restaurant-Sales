@@ -22,7 +22,7 @@ Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Al�
 ### Projeto 3: Segmentação de Clientes no E-Commerce.
 - Descrição: Neste projeto, implementei a segmentação de clientes utilizando análise RFM (Recência, Frequência, Valor Monetário) e um algoritmo de clusterização. Este projeto visa agrupar os clientes com base em seus comportamentos de compra e valor para a empresa, permitindo uma personalização mais eficaz das estratégias de marketing e um melhor direcionamento dos recursos. A análise RFM ajuda a identificar os clientes mais valiosos, enquanto a clusterização agrupa clientes com características semelhantes, proporcionando insights valiosos para a tomada de decisões.
 - Tecnologias: Python.
-- Repositório: [Link para o repositório](https://github.com/igorrodlima/Portfolio-De-Projetos/blob/main/Churn%20de%20Consumidores%20em%20um%20Banco.ipynb)](https://github.com/igorrodlima/Portfolio-De-Projetos/blob/main/Segmentação%20de%20Clientes%20no%20E-Commerce.ipynb)
+- Repositório: [Link para o repositório](https://github.com/igorrodlima/Portfolio-De-Projetos/blob/main/Segmentação%20de%20Clientes%20no%20E-Commerce.ipynb)
 
 ### Projeto 4: Previsão de Custo Médico Pessoal com Regressão.
 - Descrição: Desenvolvi um modelo de classificação em Python para prever o churn de clientes. Este projeto utiliza técnicas avançadas de machine learning para analisar padrões de comportamento e identificar clientes que estão propensos a deixar a empresa. O objetivo é permitir que a organização tome medidas proativas para reter esses clientes, aumentando assim a satisfação e a lealdade do cliente, além de reduzir a taxa de churn.
