@@ -32,7 +32,7 @@ Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Al�
 ### Projeto 5: Análise de dados de uma pizaria.
 - Descrição: Realizei uma análise detalhada dos dados de vendas de uma pizzaria para identificar tendências, padrões de consumo e oportunidades de melhoria. Utilizando técnicas de análise de dados, o objetivo deste projeto foi compreender melhor o comportamento dos clientes, otimizar o estoque e maximizar a receita. A análise incluiu a exploração de dados de vendas diárias, tipos de pizzas mais vendidas, horários de pico e preferências dos clientes.
 - Tecnologias: Python
-- Repositório: [Link para o projeto] (https://github.com/igorrodlima/Portfolio-De-Projetos/blob/main/Análise%20de%20Dados%20-%20Vendas%20de%20uma%20Pizzaria.ipynb)
+- Repositório: [Link para o projeto](https://github.com/igorrodlima/Portfolio-De-Projetos/blob/main/Análise%20de%20Dados%20-%20Vendas%20de%20uma%20Pizzaria.ipynb)
 
 ## Contato
 Estou sempre aberto a discutir novos projetos, colaborações ou apenas trocar ideias sobre tecnologia. Sinta-se à vontade para entrar em contato comigo através dos seguintes meios:
