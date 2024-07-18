@@ -9,8 +9,11 @@ Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Al�
 
 ## Projetos
 - Projeto 1: Previsão de Inadimplência
-\n Descrição: Um modelo de machine learning para prever a inadimplência de clientes de uma instituição financeira. Este projeto visa ajudar a minimizar perdas financeiras e otimizar a tomada de decisões.
+
+Descrição: Um modelo de machine learning para prever a inadimplência de clientes de uma instituição financeira. Este projeto visa ajudar a minimizar perdas financeiras e otimizar a tomada de decisões.
+
 Tecnologias: Python, HTML
+
 Repositório: [Link para o repositório](https://github.com/igorrodlima/Portfolio-De-Projetos/tree/main/Risco%20Crédito)
 
 Projeto 2: Previsão de churn de consumidores usando classificadores.
