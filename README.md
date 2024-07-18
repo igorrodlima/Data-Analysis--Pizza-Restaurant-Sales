@@ -1,1 +1,1 @@
-![Blue Futuristic Technology Presentation](https://github.com/user-attachments/assets/5d9ebce8-70c3-4242-b4e4-3ae79660cb58)
+![image](https://github.com/user-attachments/assets/1e221230-fb32-4f52-a863-0209b9ed402f)
