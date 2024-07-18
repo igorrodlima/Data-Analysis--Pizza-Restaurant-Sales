@@ -33,7 +33,7 @@ Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Al�
 Estou sempre aberto a discutir novos projetos, colaborações ou apenas trocar ideias sobre tecnologia. Sinta-se à vontade para entrar em contato comigo através dos seguintes meios:
 
 - Email: igorrodlima03@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/igorrodlima/)
-- GitHub: [Seu Perfil no GitHub](https://github.com/igorrodlima)
+- LinkedIn: [Meu perfil no Linkedin](https://www.linkedin.com/in/igorrodlima/)
+- GitHub: [Meu perfil no GitHub](https://github.com/igorrodlima)
 
 Obrigado por visitar meu portfólio de projetos!
