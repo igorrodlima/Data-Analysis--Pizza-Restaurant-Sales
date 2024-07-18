@@ -8,8 +8,8 @@ Este repositório contém uma coleção dos projetos que desenvolvi ao longo do 
 Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Além disso, atuo como estagiário em Análise de Dados, onde tenho a oportunidade de aplicar e expandir meus conhecimentos. Neste espaço, compartilho meus estudos e projetos realizados durante meu tempo livre, mostrando minha dedicação e interesse contínuo pelo campo da análise de dados.
 
 ## Projetos
-Projeto 1: Previsão de Inadimplência
-Descrição: Um modelo de machine learning para prever a inadimplência de clientes de uma instituição financeira. Este projeto visa ajudar a minimizar perdas financeiras e otimizar a tomada de decisões.
+- Projeto 1: Previsão de Inadimplência
+\n Descrição: Um modelo de machine learning para prever a inadimplência de clientes de uma instituição financeira. Este projeto visa ajudar a minimizar perdas financeiras e otimizar a tomada de decisões.
 Tecnologias: Python, HTML
 Repositório: [Link para o repositório](https://github.com/igorrodlima/Portfolio-De-Projetos/tree/main/Risco%20Crédito)
 
